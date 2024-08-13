@@ -154,6 +154,7 @@ pip install opencv-python numpy ultralytics sort
 ## **Flowchart of Process**
 
 <img width="233" alt="image" src="https://github.com/user-attachments/assets/48942933-e449-4aa8-9229-718f89e5314e">
+
 ## **Result**
 ![results](https://github.com/user-attachments/assets/cda3b75c-27b9-4f5c-b848-dce05958974e)
 
