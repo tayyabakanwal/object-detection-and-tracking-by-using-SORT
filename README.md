@@ -117,6 +117,8 @@ pip install opencv-python numpy ultralytics sort
    - Use TensorBoard or built-in logging for visualizing training progress.
 
 ---
+## **F1 Curve**
+![F1_curve](https://github.com/user-attachments/assets/7dc90e9e-a033-4a04-8a81-9ec3d0208ceb)
 
 ## **Monitoring Training**
 
@@ -131,6 +133,8 @@ pip install opencv-python numpy ultralytics sort
 ---
 
 ## **Confusion Matrix**
+![confusion_matrix](https://github.com/user-attachments/assets/a57e6ef9-1604-4e3b-849f-31354beb648b)
+
 
 - After training, evaluate the model on a validation set and use metrics to generate a confusion matrix. This can be done using tools like Scikit-learn.
   
@@ -149,31 +153,9 @@ pip install opencv-python numpy ultralytics sort
 
 ## **Flowchart of Process**
 
-1. **Capture Video Frames**
-   
-   - Use webcam or video file.
-
-2. **Object Detection**
-   
-   - YOLOv8 model detects objects.
-
-3. **Tracking**
-   
-   - Use SORT to track objects across frames.
-
-4. **Visualization**
-   
-   - Draw bounding boxes and tracking IDs on frames.
-
-5. **Display**
-   
-   - Show results in a window.
-
-6. **Save/Log Results**
-    
-   - Optional: Save results or log data.
-
----
+<img width="233" alt="image" src="https://github.com/user-attachments/assets/48942933-e449-4aa8-9229-718f89e5314e">
+## **Result**
+![results](https://github.com/user-attachments/assets/cda3b75c-27b9-4f5c-b848-dce05958974e)
 
 ## **Disclaimer**
 
@@ -185,4 +167,4 @@ pip install opencv-python numpy ultralytics sort
 
 ---
 
-Feel free to modify this guide based on your specific project requirements and environment.
+
